@@ -1,4 +1,5 @@
 # Correlation and regression for data analysis
+SWETHA A(212223220114)
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
